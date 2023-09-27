@@ -5,7 +5,9 @@
 
 
 
-**Title: Forecasting the Risk Factor of Frontier Markets: A Novel Stacking Ensemble of Neural Network Approach**
+**Deep Learning Approach for Classifying the 
+Aggressive Comments on Social Media: Machine 
+Translated Data Vs Real Life Data**
 
 **Abstract**
 
