@@ -24,9 +24,9 @@ on the Hindi, Bangla, and English datasets to detect aggressive
 comments and have shown a novel way of generating machinetranslated data to resolve data unavailability issues. A fully 
 machine-translated English dataset has been analyzed with the 
 models such as the Long Short term memory model (LSTM), 
-Bidirectional Long-short term memory model (BiLSTM), LSTMAutoencoder, word2vec, Bidirectional Encoder Representations 
-from Transformers (BERT), and generative pre-trained transformer (GPT-2) to make an observation on how the models 
-perform on a machine-translated noisy dataset. We have compared the performance of using the noisy data with two more 
+Bidirectional Long-short term memory model (BiLSTM), LSTMAutoencoder, word2vec, Bidirectional Encoder Representations 
+from Transformers (BERT), and generative pre-trained transformer (GPT-2) to make an observation on how the models 
+perform on a machine-translated noisy dataset. We have compared the performance of using the noisy data with two more 
 datasets such as raw data, which does not contain any noises, 
 and semi-noisy data, which contains a certain amount of noisy 
 data. We have classified both the raw and semi-noisy data 
