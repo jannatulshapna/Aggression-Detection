@@ -38,9 +38,10 @@ using the BERT model, and fully machine-translated data using
 the BERT model. Since many languages do not have proper data 
 availability, our approach will help researchers create machine-translated datasets for several analysis purpose. 
 
-**Architecture**
+**Data Sample**
 
  ![Framework](./images/fig1.png)
+ ![Framework](./images/fig2.png)
 
 
 **Paper Link**
