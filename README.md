@@ -21,7 +21,7 @@ of the inquiry has been done in the English language. Some
 languages (Hindi and Bangla) still lack proper investigations 
 due to the lack of a dataset. This paper particularly worked 
 on the Hindi, Bangla, and English datasets to detect aggressive 
-comments and have shown a novel way of generating machinetranslated data to resolve data unavailability issues. A fully 
+comments and have shown a novel way of generating machine translated data to resolve data unavailability issues. A fully 
 machine-translated English dataset has been analyzed with the 
 models such as the Long Short term memory model (LSTM), 
 Bidirectional Long-short term memory model (BiLSTM), LSTMAutoencoder, word2vec, Bidirectional Encoder Representations 
